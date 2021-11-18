@@ -4,7 +4,8 @@
 [![linkedin](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@Tulio.Araujoo)
 
 ![Tulio GitHub stats](https://github-readme-stats.vercel.app/api?username=tuliomt&show_icons=true&theme=onedark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tuliomt)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tuliomt&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 ## Tecnologias que eu uso no meu dia :rocket:
