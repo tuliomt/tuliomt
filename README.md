@@ -1,6 +1,6 @@
 ### Oi! Eu sou o Tulio Araujo 🖐️
 
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/tulio-araujo-santos-de-oliveira-7ba07a117)
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tulio-araujo-santos-de-oliveira-7ba07a117/)
 [![linkedin](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@Tulio.Araujoo)
 
 ![Tulio GitHub stats](https://github-readme-stats.vercel.app/api?username=tuliomt&show_icons=true&theme=onedark)
